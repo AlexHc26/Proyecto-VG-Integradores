@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\enzoj\Desktop\CIBERTEC\CIBERTEC - 4TO CICLO\EXP. Formativas\ProyectoVGINTEGRADORES(FINAL)\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2992288659.index
+725576425.index
+1901129770.index
+2553270373.index
+1190841741.index
+2418542578.index

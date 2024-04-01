@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="model.Cliente"/>
+    <fullyQualifiedTypeName name="mantenimiento.ModeloClientes"/>
+    <fullyQualifiedTypeName name="mantenimiento.GestionUsuario"/>
+    <fullyQualifiedTypeName name="model.Usuario"/>
+    <fullyQualifiedTypeName name="mantenimiento.ModeloProductos"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="model.Producto"/>
+</qualifiedTypeNameHistroy>

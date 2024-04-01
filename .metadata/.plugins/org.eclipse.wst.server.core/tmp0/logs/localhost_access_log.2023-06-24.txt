@@ -1,0 +1,12 @@
+127.0.0.1 - - [24/Jun/2023:10:44:08 -0500] "GET / HTTP/1.1" 404 687
+0:0:0:0:0:0:0:1 - - [24/Jun/2023:10:44:11 -0500] "GET /VGSECURITY/ControladorPRODUCTOS HTTP/1.1" 200 4775
+0:0:0:0:0:0:0:1 - - [24/Jun/2023:10:44:11 -0500] "GET /VGSECURITY/fb.png HTTP/1.1" 200 2613
+0:0:0:0:0:0:0:1 - - [24/Jun/2023:10:44:12 -0500] "GET /VGSECURITY/EstilosProducto.css HTTP/1.1" 200 3287
+0:0:0:0:0:0:0:1 - - [24/Jun/2023:10:44:12 -0500] "GET /VGSECURITY/insta.png HTTP/1.1" 200 1097705
+0:0:0:0:0:0:0:1 - - [24/Jun/2023:10:44:12 -0500] "GET /VGSECURITY/twit.png HTTP/1.1" 200 253129
+0:0:0:0:0:0:0:1 - - [24/Jun/2023:10:44:12 -0500] "GET /VGSECURITY/libro_recla.jpg HTTP/1.1" 200 26845
+0:0:0:0:0:0:0:1 - - [24/Jun/2023:10:44:12 -0500] "GET /VGSECURITY/fondo.jpg HTTP/1.1" 200 8222
+0:0:0:0:0:0:0:1 - - [24/Jun/2023:10:44:12 -0500] "GET /favicon.ico HTTP/1.1" 404 698
+0:0:0:0:0:0:0:1 - - [24/Jun/2023:10:44:17 -0500] "GET /VGSECURITY/ControladorPRODUCTOS?instruccion=cargar&cod_prod=4 HTTP/1.1" 200 1072
+0:0:0:0:0:0:0:1 - - [24/Jun/2023:10:44:18 -0500] "GET /VGSECURITY/EstiloProductoActualizar.css HTTP/1.1" 200 893
+0:0:0:0:0:0:0:1 - - [24/Jun/2023:10:44:23 -0500] "GET /VGSECURITY/ControladorPRODUCTOS?instruccion=actualizarBBDD&cod_prod=4&nom_prod=Domo+PTZ&fknom_marc=1&precio=163.0&stock=45&envio=Enviar HTTP/1.1" 200 4775
